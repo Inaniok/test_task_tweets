@@ -9,5 +9,5 @@ export const H1 = styled.h1`
   line-height: 1.4;
   text-transform: uppercase;
 
-  color: #271c5a;
+  color: #485167;
 `;
